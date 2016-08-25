@@ -13,3 +13,7 @@ And I personally think [you should not use Attribute Routing](https://aspnetwebs
 
 *"Give a rope to people and they will hang themselves up with it"* - anonymous
 
+or 
+
+*"they will build a rope suspension bridge"*
+
